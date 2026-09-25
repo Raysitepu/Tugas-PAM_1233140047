@@ -1,4 +1,4 @@
-# Kabar — News Feed Simulator
+# News Feed Simulator
 
 Aplikasi Android Kotlin untuk **Tugas Praktikum Pertemuan 2: Advanced Kotlin, Coroutines, dan Flow**, IF25-22017 Pengembangan Aplikasi Mobile, ITERA.
 
